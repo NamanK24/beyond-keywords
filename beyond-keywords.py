@@ -160,7 +160,7 @@ def main():
         unsafe_allow_html=True,
     )
     st.markdown(
-        '<h1 style="text-align: center;">AI-Powered Resume Analyzer</h1>',
+        '<h1 style="text-align: center;">BEYOND-KEYWORDS</h1>',
         unsafe_allow_html=True,
     )
 
