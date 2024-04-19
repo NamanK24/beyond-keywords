@@ -1,0 +1,6 @@
+streamlit
+numpy
+pandas
+PyPDF2
+selenium
+nltk
