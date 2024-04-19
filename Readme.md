@@ -28,8 +28,12 @@ pandas: Library for data manipulation and analysis.
 scikit-learn (sklearn): Library for machine learning tasks.
 
 ## Installation and Usage
+Make sure to use Python 3.8.10
 
 Install all the required libraries
+```bash
+pip install -r requirements.txt
+```
 
 To run use the following command:
 ```bash
