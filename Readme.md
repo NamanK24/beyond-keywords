@@ -40,5 +40,7 @@ To run use the following command:
 streamlit run beyond-keywords.py
 ```
 
+## Made By
 
+[Naman Kumar](https://www.linkedin.com/in/naman-kumar-954644224/)
 
