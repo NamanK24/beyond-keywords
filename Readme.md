@@ -42,5 +42,5 @@ streamlit run beyond-keywords.py
 
 ## Made By
 
-[Naman Kumar](https://www.linkedin.com/in/naman-kumar-954644224/)
+[Naman Kumar](https://linktr.ee/namank24?utm_source=linktree_profile_share&ltsid=99a9afd3-42fa-4f2b-976f-28e67cd072b6)
 
