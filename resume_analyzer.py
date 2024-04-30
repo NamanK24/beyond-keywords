@@ -71,7 +71,7 @@ class ResumeAnalyzer:
         strengths = [
             word
             for word, freq in freq_dist.items()
-            if freq / total_words >= min_ratio and freq >= min_frequency
+            if freq / total_words >= min_ratio and freq >= min_frequency 
         ]
         weaknesses = [
             word

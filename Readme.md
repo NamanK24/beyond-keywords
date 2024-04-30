@@ -18,14 +18,14 @@ LinkedIn Job Scraping: Scrapes job listings from LinkedIn based on a specified j
 
 ## Technologies Used
 
-Python: Core programming language used for development.
-Streamlit: Web application framework for building interactive dashboards.
-NLTK (Natural Language Toolkit): Library for natural language processing tasks such as tokenization and stopwords removal.
-Selenium: Web scraping tool used for scraping job listings from LinkedIn.
-PyPDF2: Library for reading PDF files.
-NumPy: Library for numerical computing.
-pandas: Library for data manipulation and analysis.
-scikit-learn (sklearn): Library for machine learning tasks.
+1. Python: Core programming language used for development.
+2. Streamlit: Web application framework for building interactive dashboards.
+3. NLTK (Natural Language Toolkit): Library for natural language processing tasks such as tokenization and stopwords removal.
+4. Selenium: Web scraping tool used for scraping job listings from LinkedIn.
+5. PyPDF2: Library for reading PDF files.
+6. NumPy: Library for numerical computing.
+7. pandas: Library for data manipulation and analysis.
+8. scikit-learn (sklearn): Library for machine learning tasks.
 
 ## Installation and Usage
 Make sure to use Python 3.8.10
